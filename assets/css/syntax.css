@@ -111,3 +111,15 @@ footer p {
         margin-top: 7rem;
     }
 }
+
+/* About Page */
+.about_wrap{
+    padding-top: 7%;
+    margin: 0 3% 0 3%;
+}
+
+.about_content{
+    border-radius: 20px;
+    border: 2px solid black;
+    padding: 10px;
+}
