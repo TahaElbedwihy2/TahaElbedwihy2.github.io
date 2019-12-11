@@ -1,6 +1,19 @@
 body {
     padding-top: 5rem;
 }
+
+h1{
+    font-family: monospace;
+}
+
+h2{
+    font-family: Arial;
+}
+
+h3{
+    font-family: "Times New Roman";
+}
+
 .jumbotron {
     padding-top: 3rem;
     padding-bottom: 3rem;
