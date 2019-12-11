@@ -271,3 +271,11 @@ footer p {
 .resume_work_experience_content h3{
     font-weight: normal;
 }
+/* Contact Page */
+.contact_top{
+    padding: 3%;
+    font-family: monospace;
+    background: blanchedalmond;
+    font-size: 120%;
+    text-align: center;
+}
