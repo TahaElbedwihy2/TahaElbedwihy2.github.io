@@ -218,4 +218,56 @@ footer p {
     border: 1px solid blue;
     border-style: dashed;
 }
+/* Resume Page*/
+#resume_top_wrap {
+    float:left;
+    width: 30%;
+    margin-left: 3%;
+    padding-top: 7%
+}
 
+#resume_whole_wrap{ /* Main Wrap keeping all resume content on a straight line */
+    float:left;
+    padding-top: 7%
+}
+
+.resume_right_wrap{
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-right: 3%;
+    width: 1100px;
+    margin-bottom: 2%;
+}
+.info_content h1{
+    margin-left: 1%;
+}
+
+.info_content h2{
+    margin-left: 3%;
+}
+
+.info_content h3{
+    margin-left:3%;
+}
+
+.info_content p{
+    margin-left: 3%;
+}
+
+.resume_content{
+    padding-left: 3%;
+    padding-right: 2%;
+}
+
+.not_bold{
+    font-weight: normal;
+}
+
+.resume_work_experience_content{
+    margin-left:3%;
+    margin-right:3%
+}
+
+.resume_work_experience_content h3{
+    font-weight: normal;
+}
