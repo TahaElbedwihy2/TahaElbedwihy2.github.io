@@ -192,7 +192,6 @@ footer p {
     padding: 20px;
     border: 3px solid black;
     word-wrap: break-word;
-    width:1250px;
     overflow:auto;
 }
 
